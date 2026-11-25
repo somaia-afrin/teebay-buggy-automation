@@ -1,0 +1,12 @@
+{
+  "category": "Furniture",
+  "buyRange": {
+    "min": 30,
+    "max": 60
+  },
+  "rentRange": {
+    "min": 1,
+    "max": 10,
+    "frequency": "Daily"
+  }
+}

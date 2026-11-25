@@ -1,0 +1,28 @@
+- generic [ref=e2]:
+  - generic [ref=e20]:
+    - generic [ref=e21]: My Products
+    - generic [ref=e22]: Browse Products
+    - generic [ref=e23]: Bought/Sold/Borrowed/Lent List
+    - generic [ref=e24] [cursor=pointer]: Account Settings
+    - generic [ref=e25]: Logout
+  - generic [ref=e92]:
+    - heading "ACCOUNT SETTINGS" [level=1] [ref=e93]
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - generic [ref=e99]: First Name
+          - textbox [ref=e100]: Test
+        - generic [ref=e101]:
+          - generic [ref=e102]: Last Name
+          - textbox [ref=e103]: User
+      - generic [ref=e104]:
+        - generic [ref=e105]: Address
+        - textbox [ref=e106]: 123 Test address, Woompa Loopa, ZUC 1234-8765, Narnia
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - generic [ref=e109]: Email
+          - textbox [ref=e110]: testuser@teebay.com
+        - generic [ref=e111]:
+          - generic [ref=e112]: Phone Number
+          - textbox [ref=e113]: "+123456789"
+      - button "Update" [ref=e115] [cursor=pointer]

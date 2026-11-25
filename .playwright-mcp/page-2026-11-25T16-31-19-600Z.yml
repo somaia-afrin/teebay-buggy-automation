@@ -1,0 +1,14 @@
+- generic [ref=f1e4]:
+  - heading "SIGN IN" [level=1] [ref=f1e5]
+  - generic [ref=f1e8]:
+    - generic [ref=f1e9]:
+      - generic [ref=f1e10]: Email
+      - textbox [ref=f1e11]
+    - generic [ref=f1e12]:
+      - generic [ref=f1e13]: Password
+      - textbox [ref=f1e14]
+    - generic [ref=f1e15]:
+      - generic [ref=f1e16]: Don't have an account?
+      - link "Sign Up" [ref=f1e17] [cursor=pointer]:
+        - /url: /register
+    - button "Sign In" [ref=f1e19] [cursor=pointer]

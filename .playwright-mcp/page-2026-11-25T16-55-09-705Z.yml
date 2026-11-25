@@ -1,0 +1,67 @@
+- generic [ref=e2]:
+  - generic [ref=e20]:
+    - generic [ref=e21]: My Products
+    - generic [ref=e22]: Browse Products
+    - generic [ref=e23]: Bought/Sold/Borrowed/Lent List
+    - generic [ref=e24]: Account Settings
+    - generic [ref=e25]: Logout
+  - generic [ref=e27]:
+    - button "Add Product" [ref=e29] [cursor=pointer]
+    - generic [ref=e30]:
+      - generic [ref=e32] [cursor=pointer]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e35]: Cricket kit
+            - button [ref=e36]:
+              - generic [aria-hidden] [ref=e37]: 
+          - generic [ref=e38]: "Categories: Sporting Goods, Outdoor"
+          - generic [ref=e39]:
+            - generic [ref=e40]: "Price: $500"
+            - generic [ref=e41]: "Rent: $100 daily"
+          - generic [ref=e42]: "Description: 2016 cricket kit brand new in box. Never used. Bought from the shop. Professional kit. Pick up item please."
+        - generic [ref=e43]:
+          - generic [ref=e44]: "Date posted: 2020-09-21"
+          - generic [ref=e45]: 156 views
+      - generic [ref=e47] [cursor=pointer]:
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e50]: Cricket kit
+            - button [ref=e51]:
+              - generic [aria-hidden] [ref=e52]: 
+          - generic [ref=e53]: "Categories: Sporting Goods, Outdoor"
+          - generic [ref=e54]:
+            - generic [ref=e55]: "Price: $500"
+            - generic [ref=e56]: "Rent: $100 daily"
+          - generic [ref=e57]: "Description: 2016 cricket kit brand new in box. Never used. Bought from the shop. Professional kit. Pick up item please."
+        - generic [ref=e58]:
+          - generic [ref=e59]: "Date posted: 2020-09-21"
+          - generic [ref=e60]: 156 views
+    - generic [ref=e61]:
+      - generic [ref=e63] [cursor=pointer]:
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - generic [ref=e66]: iPhone 13 pro max
+            - button [ref=e67]:
+              - generic [aria-hidden] [ref=e68]: 
+          - generic [ref=e69]: "Categories: Electronics"
+          - generic [ref=e70]:
+            - generic [ref=e71]: "Price: $1500"
+            - generic [ref=e72]: "Rent: $50 hourly"
+          - generic [ref=e73]: "Description: Latest iphone 13 max. Bought from the Apple store. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae"
+        - generic [ref=e74]:
+          - generic [ref=e75]: "Date posted: 2021-10-15"
+          - generic [ref=e76]: 146341 views
+      - generic [ref=e78] [cursor=pointer]:
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic [ref=e81]: iPhone 13 pro max
+            - button [ref=e82]:
+              - generic [aria-hidden] [ref=e83]: 
+          - generic [ref=e84]: "Categories: Electronics"
+          - generic [ref=e85]:
+            - generic [ref=e86]: "Price: $1500"
+            - generic [ref=e87]: "Rent: $50 hourly"
+          - generic [ref=e88]: "Description: Latest iphone 13 max. Bought from the Apple store. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae"
+        - generic [ref=e89]:
+          - generic [ref=e90]: "Date posted: 2021-10-15"
+          - generic [ref=e91]: 146341 views

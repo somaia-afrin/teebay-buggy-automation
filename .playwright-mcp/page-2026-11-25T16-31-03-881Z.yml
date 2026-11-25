@@ -1,0 +1,25 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e20]:
+      - generic [ref=e21]: My Products
+      - generic [ref=e22]: Browse Products
+      - generic [ref=e23]: Bought/Sold/Borrowed/Lent List
+      - generic [ref=e24]: Account Settings
+      - generic [ref=e25]: Logout
+    - generic [ref=e187]:
+      - heading "PRODUCT DETAILS" [level=1] [ref=e189]
+      - generic [ref=e190]:
+        - generic [ref=e191]: Blender
+        - generic [ref=e192]: "Views: 23"
+      - generic [ref=e193]: "Categories: Home Appliances"
+      - generic [ref=e194]:
+        - text: "Status:"
+        - generic [ref=e195]: SOLD
+      - generic [ref=e196]: "Purchase Price: $1005 | Rent Price: $20 weekly"
+      - generic [ref=e198]: Used fruit blender
+      - generic [ref=e199]: "Rent history: (Feb 1st 2022 - Jan 12th 2023), (Dec 26th 2026 - Dec 27th 2026)"
+  - generic [ref=e233]:
+    - generic [ref=e234]: Are you sure you want to log out?
+    - generic [ref=e236]:
+      - button "Cancel" [ref=e237] [cursor=pointer]
+      - button "Yes I am sure!" [ref=e238] [cursor=pointer]

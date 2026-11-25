@@ -1,0 +1,106 @@
+- generic [ref=f1e2]:
+  - generic [ref=f1e20]:
+    - generic [ref=f1e21]: My Products
+    - generic [ref=f1e22] [cursor=pointer]: Browse Products
+    - generic [ref=f1e23]: Bought/Sold/Borrowed/Lent List
+    - generic [ref=f1e24]: Account Settings
+    - generic [ref=f1e25]: Logout
+  - generic [ref=f1e92]:
+    - generic [ref=f1e94]:
+      - heading "SEARCH" [level=1] [ref=f1e96]
+      - generic [ref=f1e97]:
+        - generic [ref=f1e98]:
+          - generic [ref=f1e99]: Title
+          - textbox [ref=f1e100]
+        - generic [ref=f1e101]:
+          - generic [ref=f1e102]: Categories
+          - listbox [ref=f1e103] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f1e104]: 
+        - generic [ref=f1e107]:
+          - checkbox [ref=f1e108] [cursor=pointer]
+          - generic [ref=f1e109] [cursor=pointer]: Buy Filters
+        - generic [ref=f1e112]:
+          - checkbox [ref=f1e113] [cursor=pointer]
+          - generic [ref=f1e114] [cursor=pointer]: Rent Filters
+        - generic [ref=f1e115]:
+          - button "Clear" [ref=f1e117] [cursor=pointer]
+          - button "Filter" [ref=f1e118] [cursor=pointer]
+    - generic [ref=f1e119]:
+      - generic [ref=f1e121] [cursor=pointer]:
+        - generic [ref=f1e122]:
+          - generic [ref=f1e123]: Last of Us Part II PS5 game
+          - generic [ref=f1e125]: "Categories: Electronics, Toys"
+          - generic [ref=f1e126]:
+            - generic [ref=f1e127]: "Price: $40"
+            - generic [ref=f1e128]: "Rent: $10 daily"
+          - generic [ref=f1e129]: "Description: Exclusive PS5 game"
+        - generic [ref=f1e130]:
+          - generic [ref=f1e131]: "Date posted: 2019-05-20"
+          - generic [ref=f1e132]: 200 views
+      - generic [ref=f1e134] [cursor=pointer]:
+        - generic [ref=f1e135]:
+          - generic [ref=f1e136]: Ikea couch
+          - generic [ref=f1e138]: "Categories: Furniture"
+          - generic [ref=f1e139]:
+            - generic [ref=f1e140]: "Price: $10000"
+            - generic [ref=f1e141]: "Rent: $1000 monthly"
+          - generic [ref=f1e142]: "Description: L shaped couch"
+        - generic [ref=f1e143]:
+          - generic [ref=f1e144]: "Date posted: 2015-11-21"
+          - generic [ref=f1e145]: 202340 views
+      - generic [ref=f1e147] [cursor=pointer]:
+        - generic [ref=f1e148]:
+          - generic [ref=f1e149]: Funshine bear
+          - generic [ref=f1e151]: "Categories: Toys"
+          - generic [ref=f1e152]:
+            - generic [ref=f1e153]: "Price: $50"
+            - generic [ref=f1e154]: "Rent: $1 daily"
+          - generic [ref=f1e155]: "Description: Original and best among the care bears"
+        - generic [ref=f1e156]:
+          - generic [ref=f1e157]: "Date posted: 2015-07-21"
+          - generic [ref=f1e158]: 123 views
+      - generic [ref=f1e160] [cursor=pointer]:
+        - generic [ref=f1e161]:
+          - generic [ref=f1e162]: Blender
+          - generic [ref=f1e164]: "Categories: Home Appliances"
+          - generic [ref=f1e165]:
+            - generic [ref=f1e166]: "Price: $1005"
+            - generic [ref=f1e167]: "Rent: $20 weekly"
+          - generic [ref=f1e168]: "Description: Used fruit blender"
+        - generic [ref=f1e169]:
+          - generic [ref=f1e170]: "Date posted: 2014-07-15"
+          - generic [ref=f1e171]: 22 views
+      - generic [ref=f1e173] [cursor=pointer]:
+        - generic [ref=f1e174]:
+          - generic [ref=f1e175]: Lawn Mower
+          - generic [ref=f1e177]: "Categories: Outdoor, Home Appliances"
+          - generic [ref=f1e178]:
+            - generic [ref=f1e179]: "Price: $15421"
+            - generic [ref=f1e180]: "Rent: $3463 annually"
+          - generic [ref=f1e181]: "Description: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio."
+        - generic [ref=f1e182]:
+          - generic [ref=f1e183]: "Date posted: 1995-07-04"
+          - generic [ref=f1e184]: 1222 views
+      - generic [ref=f1e186] [cursor=pointer]:
+        - generic [ref=f1e187]:
+          - generic [ref=f1e188]: Cricket kit
+          - generic [ref=f1e190]: "Categories: Sporting Goods, Outdoor"
+          - generic [ref=f1e191]:
+            - generic [ref=f1e192]: "Price: $500"
+            - generic [ref=f1e193]: "Rent: $100 daily"
+          - generic [ref=f1e194]: "Description: 2016 cricket kit brand new in box. Never used. Bought from the shop. Professional kit. Pick up item please."
+        - generic [ref=f1e195]:
+          - generic [ref=f1e196]: "Date posted: 2020-09-21"
+          - generic [ref=f1e197]: 156 views
+      - generic [ref=f1e199] [cursor=pointer]:
+        - generic [ref=f1e200]:
+          - generic [ref=f1e201]: iPhone 13 pro max
+          - generic [ref=f1e203]: "Categories: Electronics"
+          - generic [ref=f1e204]:
+            - generic [ref=f1e205]: "Price: $1500"
+            - generic [ref=f1e206]: "Rent: $50 hourly"
+          - generic [ref=f1e207]: "Description: Latest iphone 13 max. Bought from the Apple store. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae"
+        - generic [ref=f1e208]:
+          - generic [ref=f1e209]: "Date posted: 2021-10-15"
+          - generic [ref=f1e210]: 146341 views
+      - button "Load More" [ref=f1e212] [cursor=pointer]

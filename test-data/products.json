@@ -1,0 +1,18 @@
+{
+  "valid": {
+    "title": "Playwright Test Portable Speaker",
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker in excellent condition.",
+    "purchasePrice": "250",
+    "rentPrice": "20",
+    "rentFrequency": "Weekly"
+  },
+  "updated": {
+    "title": "Playwright Updated Portable Speaker",
+    "category": "Home Appliances",
+    "description": "Portable speaker updated through Playwright.",
+    "purchasePrice": "275",
+    "rentPrice": "25",
+    "rentFrequency": "Monthly"
+  }
+}

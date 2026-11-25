@@ -1,0 +1,29 @@
+{
+  "valid": {
+    "email": "testuser@teebay.com",
+    "password": "123456"
+  },
+  "accountUpdate": {
+    "firstName": "Test Updated",
+    "lastName": "User Updated",
+    "address": "456 Test Avenue, Example City, ZZ 12345",
+    "email": "testuser@teebay.com",
+    "phoneNumber": "+1234567801"
+  },
+  "incorrectPassword": {
+    "email": "testuser@teebay.com",
+    "password": "wrong-password"
+  },
+  "incorrectEmail": {
+    "email": "unknown@teebay.com",
+    "password": "123456"
+  },
+  "invalid": {
+    "email": "invalid-email",
+    "password": "wrong-password"
+  },
+  "empty": {
+    "email": "",
+    "password": ""
+  }
+}
